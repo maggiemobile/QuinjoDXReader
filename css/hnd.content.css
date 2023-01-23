@@ -85,14 +85,14 @@ a.rvts14, span.rvts14
 {
  font-family: 'Open Sans';
  font-weight: bold;
- color: #c45911;
+ color: #c33000;
  text-decoration: underline;
 }
 span.rvts15
 {
  font-family: 'Open Sans';
  font-weight: bold;
- color: #c45911;
+ color: #c33000;
  text-decoration: underline;
 }
 span.rvts16
@@ -118,6 +118,12 @@ span.rvts19
  font-family: 'Open Sans';
 }
 span.rvts20
+{
+ font-family: 'Open Sans';
+ font-weight: bold;
+ color: #c33000;
+}
+span.rvts21
 {
  font-size: 8pt;
  font-family: 'Open Sans';
@@ -210,14 +216,9 @@ p,ul,ol /* Paragraph Style */
 {
  widows: 2;
  orphans: 2;
- border-color: #6074ba;
- border-style: solid;
- border-width: 5px;
- border-top: none;
- border-right: none;
- border-bottom: none;
- background: #c1c8e3;
- background-color: rgba(193,200,227,0.2);
- padding: 5px 5px 5px 5px;
- margin: 0px 14px 0px 14px;
+ background: #e3e8f2;
+ margin: 0px 24px 8px 24px;
 }
+/* ========== Lists ========== */
+.list0 {text-indent: 0px; padding: 0; margin: 0 0 0 24px; list-style-position: outside;}
+.list1 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside;}
