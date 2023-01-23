@@ -201,7 +201,14 @@ p,ul,ol /* Paragraph Style */
  border-left: none;
  margin: 0px 0px 7px 0px;
 }
-.rvps9 /* Paragraph Style */
+.rvps9
+{
+ text-align: right;
+ widows: 2;
+ orphans: 2;
+ margin: 0px 0px 8px 0px;
+}
+.rvps10 /* Paragraph Style */
 {
  text-align: center;
  border-color: #c0c0c0;
@@ -212,7 +219,7 @@ p,ul,ol /* Paragraph Style */
  padding: 2px 0px 2px 0px;
  margin: 7px 0px 7px 0px;
 }
-.rvps10
+.rvps11
 {
  widows: 2;
  orphans: 2;
