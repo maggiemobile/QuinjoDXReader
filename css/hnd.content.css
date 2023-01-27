@@ -64,66 +64,58 @@ a.rvts10, span.rvts10
 }
 span.rvts11
 {
- font-family: 'Open Sans';
- color: #333333;
-}
-span.rvts12
-{
  font-size: 16pt;
  font-family: 'Trebuchet MS', 'Helvetica', sans-serif;
  font-weight: bold;
  color: #303e6e;
 }
-span.rvts13
+span.rvts12
 {
  font-size: 12pt;
  font-family: 'Trebuchet MS', 'Helvetica', sans-serif;
  font-weight: bold;
  color: #6074ba;
 }
-a.rvts14, span.rvts14
+a.rvts13, span.rvts13
 {
  font-family: 'Open Sans';
- font-weight: bold;
- color: #c33000;
+ color: #6f9ccc;
+ text-decoration: underline;
+}
+span.rvts14
+{
+ font-family: 'Open Sans';
+ color: #6f9ccc;
  text-decoration: underline;
 }
 span.rvts15
 {
- font-family: 'Open Sans';
- font-weight: bold;
- color: #c33000;
- text-decoration: underline;
-}
-span.rvts16
-{
  font-size: 8pt;
  font-family: 'Open Sans';
 }
-span.rvts17 /* Font Style */
+span.rvts16 /* Font Style */
 {
  font-family: 'Tahoma', 'Geneva', sans-serif;
  font-style: italic;
  color: #c0c0c0;
 }
-a.rvts18, span.rvts18 /* Font Style */
+a.rvts17, span.rvts17 /* Font Style */
 {
  font-family: 'Tahoma', 'Geneva', sans-serif;
  font-style: italic;
  color: #6666ff;
  text-decoration: underline;
 }
+span.rvts18
+{
+ font-family: 'Open Sans';
+}
 span.rvts19
 {
  font-family: 'Open Sans';
+ color: #6f9ccc;
 }
 span.rvts20
-{
- font-family: 'Open Sans';
- font-weight: bold;
- color: #c33000;
-}
-span.rvts21
 {
  font-size: 8pt;
  font-family: 'Open Sans';
